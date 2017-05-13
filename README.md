@@ -1,5 +1,5 @@
 ![Travis Status](https://travis-ci.org/simonguest/swagger-mongoose.svg?branch=master)
-# swagger-mongoose
+# swagger-mongoose-forked
 
 Generate mongoose schemas and models from swagger documents
 
