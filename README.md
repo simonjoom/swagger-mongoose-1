@@ -1,5 +1,6 @@
 ![Travis Status](https://travis-ci.org/simonguest/swagger-mongoose.svg?branch=master)
 # swagger-mongoose-forked
+REQUIRED validation on nested working
 
 Generate mongoose schemas and models from swagger documents
 
